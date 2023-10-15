@@ -1,6 +1,8 @@
 body {
   max-width: 800px;
   margin: 0 auto;
+  font-family: "Times New Roman";
+  font-size: 0.9em;
 }
 
 .sender-column {
@@ -21,4 +23,8 @@ p,ul,ol,dl,address {
 
 p, li, dd, dt, address {
   line-height: 1.5;
+}
+
+.under{
+  border-bottom: dashed 1px #000000;
 }
